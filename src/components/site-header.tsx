@@ -1,5 +1,3 @@
-import { Button } from "@/components/ui/button";
-import { Separator } from "@/components/ui/separator";
 import { SidebarTrigger } from "@/components/ui/sidebar";
 import { NavUser } from "./nav-user";
 
@@ -8,7 +6,8 @@ export function SiteHeader() {
     user: {
       name: "shadcn",
       email: "m@example.com",
-      avatar: "https://i.ibb.co.com/ynWCGpFB/marbapp.png",
+      avatar:
+        "https://i.ibb.co.com/VWkMFBWM/pngtree-user-icon-png-image-1796659.jpg",
     },
   };
   return (
